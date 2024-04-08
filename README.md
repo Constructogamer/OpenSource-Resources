@@ -21,7 +21,27 @@ Explain how to use your project. Provide examples, code snippets, or screenshots
 Encourage others to contribute to your project! Mention guidelines for pull requests, issue reporting, and coding standards. Make it easy for fellow developers to get involved.
 
 ## License
-Specify the license under which your project is released. Choose an appropriate license (e.g., MIT, Apache, GPL) and provide a link to the full license text.
+MIT License
+
+Copyright (c) 2024 Megaconstructogamer9
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
 ## Badges (Optional)
 Add badges to showcase project status, build status, code coverage, etc. These can make your README more visually appealing.

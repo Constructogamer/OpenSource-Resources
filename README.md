@@ -1,7 +1,11 @@
 # OpenSource-Resources
 Hey everyone! Welcome to my GitHub repository! 👋😄
+Here you will find some open-source projects I've programmed, which I upload so you can use them in yours.
 
 ## Description
+> Description
+
+## Latest Update
 > Description
 
 ## Table of Contents

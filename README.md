@@ -1,5 +1,5 @@
 # OpenSource-Resources
-> Introduction
+Hey everyone! Welcome to my GitHub repository! 👋😄
 
 ## Description
 > Description

@@ -1,7 +1,7 @@
 # OpenSource-Resources
 Briefly introduce your project with a clear and compelling title. This is the first thing people see when they land on your repo, so make it engaging and descriptive.
 
-# Description
+## Description
 Provide a concise overview of your project. Explain what it does, its purpose, and why it matters. Keep it inviting, friendly, and approachable. Remember, ain’t nobody got time for your manifesto! 😉
 
 # Table of Contents

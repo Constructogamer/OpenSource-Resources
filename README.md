@@ -44,7 +44,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ## Badges (Optional)
-Add badges to showcase project status, build status, code coverage, etc. These can make your README more visually appealing.
+// Add badges to showcase project status, build status, code coverage, etc. These can make your README more visually appealing.
 
 ## Acknowledgments (Optional)
 If you’ve used third-party libraries, tools, or resources, acknowledge them here. Give credit where it’s due!

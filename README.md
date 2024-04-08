@@ -5,7 +5,7 @@ Briefly introduce your project with a clear and compelling title. This is the fi
 Provide a concise overview of your project. Explain what it does, its purpose, and why it matters. Keep it inviting, friendly, and approachable. Remember, ain’t nobody got time for your manifesto! 😉
 
 ## Table of Contents
-> Include a table of contents to help users navigate through your README. You can list sections like:
+* Include a table of contents to help users navigate through your README. You can list sections like:
 
 ## Installation
 Usage

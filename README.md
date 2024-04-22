@@ -22,14 +22,8 @@
   <p align="center">
     A GitHub repository by Constructogamer
     <br />
-    <a href="https://github.com/Constructogamer/OpenSource-Resources/tree/main"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Constructogamer/OpenSource-Resources/tree/main"><strong>Explore the resources ➡️</strong></a>
     <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
   </p>
 </div>
 

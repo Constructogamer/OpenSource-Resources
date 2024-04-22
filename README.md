@@ -11,7 +11,7 @@ Every project uploaded here can be downloaded as a zip compressed file which con
 * 🎵 YouTube Downloader v1.0.0 is out!
 
 ## Table of Contents (newest to oldest)
-* 🎵 YouTube Downloader (v.1.0.0)
+* 🎵 [YouTube Downloader (v.1.0.0)](https://pages.github.com/)
 
 ## Installation
 > Instalation instructions

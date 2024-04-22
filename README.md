@@ -22,7 +22,7 @@
   <p align="center">
     A GitHub repository by Constructogamer
     <br />
-    <a href="https://github.com/Constructogamer/OpenSource-Resources/tree/main"><strong>Explore the resources </strong></a>➡️
+    <a href="https://github.com/Constructogamer/OpenSource-Resources/tree/main"><strong>Explore all the resources</strong></a> ➡️
     <br />
   </p>
 </div>

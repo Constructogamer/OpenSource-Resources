@@ -7,7 +7,7 @@ Here you will find some open-source projects I've programmed, which I upload so 
 > Description
 
 ## Latest Update
-> Description
+🎵 YouTube Downloader v1.0.0 is out!
 
 ## Table of Contents
 * YouTube Downloader

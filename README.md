@@ -22,7 +22,7 @@
   <p align="center">
     A GitHub repository by Constructogamer
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Constructogamer/OpenSource-Resources/tree/main"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>

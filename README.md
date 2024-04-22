@@ -4,7 +4,7 @@ Hey everyone! Welcome to my GitHub repository! 👋😄
 Here you will find some open-source projects I've programmed, which I upload so you can use them in yours. Feel free to download anything you want! ⚡
 
 ## Description
-> Description
+Every project uploaded here can be downloaded as a zip compressed file which contains the code, the resources, and a readme with the installation and usage instructions. Codes are well explained and plenty of comments so you can use them to learn and improve your programming skills. In addition, when possible, such as with Python projects, you can download the program as an executable file if you just want to use it and you are not interested in the code.
 
 ## Latest Update
 🎵 YouTube Downloader v1.0.0 is out!

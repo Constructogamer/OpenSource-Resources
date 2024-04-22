@@ -7,10 +7,11 @@ Here you will find some open-source projects I've programmed, which I upload so 
 Every project uploaded here can be downloaded as a zip compressed file which contains the code, the resources, and a readme with the installation and usage instructions. Codes are well explained and plenty of comments so you can use them to learn and improve your programming skills. In addition, when possible, such as with Python projects, you can download the program as an executable file if you just want to use it and you are not interested in the code.
 
 ## Latest Update
+🖥️ My new open-source GitHub repository is opened!
 🎵 YouTube Downloader v1.0.0 is out!
 
-## Table of Contents
-* YouTube Downloader
+## Table of Contents (newest to oldest)
+🎵 YouTube Downloader (v.1.0.0)
 
 ## Installation
 > Instalation instructions

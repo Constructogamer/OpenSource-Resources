@@ -17,7 +17,7 @@
     <img src="images/newLogo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">OpenSource-Resources</h3>
+  <h3 align="center">#OpenSource-Resources</h3>
 
   <p align="center">
     A GitHub repository by Constructogamer

@@ -13,23 +13,8 @@ Every project uploaded here can be downloaded as a zip compressed file which con
 ## Table of Contents (newest to oldest)
 * 🎵 [YouTube Downloader (v.1.0.0)](https://github.com/Constructogamer/OpenSource-Resources/tree/main/Python/YouTube%20Downloader/v1.0.0) - Python
 
-## Installation
-> Instalation instructions
-
-## Usage
-> How to use
-
-## Contributing
-> Encourage others to contribute to your project! Mention guidelines for pull requests, issue reporting, and coding standards. Make it easy for fellow developers to get involved.
-
 ## License
 This project is subject to MIT License, which allows users to do almost anything with the code, as long as they provide attribution back to the original author and don’t hold the author liable. In other words, it grants significant freedom to use, modify, and distribute the software.
-
-## Badges (Optional)
-> Add badges to showcase project status, build status, code coverage, etc. These can make your README more visually appealing.
-
-## Acknowledgments (Optional)
-> If you’ve used third-party libraries, tools, or resources, acknowledge them here. Give credit where it’s due!
 
 ## Contact me
 📧 megaconstructogamer9@outlook.es

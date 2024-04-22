@@ -14,7 +14,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/circleLogo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h1 align="center">OpenSource-Resources</h1>

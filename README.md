@@ -70,11 +70,11 @@ Codes are well explained and plenty of comments so you can use them to understan
 
 <details>
   <summary>Table of Contents</summary>
-  <ol>
+  <ul style="list-style-type: none;">
     <li>
       <details>
         <summary>A</summary>
-        <ul>
+        <ul style="list-style-type: none;">
           <li>a</li>
           <li>b</li>
           <li>c</li>
@@ -84,15 +84,16 @@ Codes are well explained and plenty of comments so you can use them to understan
     <li>
       <details>
         <summary>B</summary>
-        <ul>
+        <ul style="list-style-type: none;">
           <li>a</li>
           <li>b</li>
           <li>c</li>
         </ul>
       </details>
     </li>
-  </ol>
+  </ul>
 </details>
+
 
 
 ## License

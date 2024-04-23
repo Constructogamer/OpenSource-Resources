@@ -75,9 +75,9 @@ Codes are well explained and plenty of comments so you can use them to understan
       <a href="https://github.com/Constructogamer/OpenSource-Resources/tree/main/Python">Python</a>
       <ul style="list-style-type: none;">
         <li>
-          <a href="https://github.com/Constructogamer/OpenSource-Resources/tree/main/Python/YouTube%20Downloader%20(v1.0.0)">YouTube Downloader (v1.0.0)</a>
+          <a href="https://github.com/Constructogamer/OpenSource-Resources/tree/main/Python/YouTube%20Downloader">YouTube Downloader</a>
           <ul style="list-style-type: none;">
-            <li>Hola</li>
+            <li>v1.0.0</li>
           </ul>
         </li>
         <li>Coming soon...</li>

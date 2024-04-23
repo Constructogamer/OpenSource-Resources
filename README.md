@@ -74,21 +74,21 @@ Codes are well explained and plenty of comments so you can use them to understan
     <li>
       <details>
         <summary>A</summary>
-        <ol>
+        <ul>
           <li>a</li>
           <li>b</li>
           <li>c</li>
-        </ol>
+        </ul>
       </details>
     </li>
     <li>
       <details>
         <summary>B</summary>
-        <ol>
+        <ul>
           <li>a</li>
           <li>b</li>
           <li>c</li>
-        </ol>
+        </ul>
       </details>
     </li>
   </ol>

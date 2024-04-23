@@ -72,7 +72,7 @@ Codes are well explained and plenty of comments so you can use them to understan
   <summary>List of Resources</summary>
   <ul style="list-style-type: none;">
     <li>
-      Python
+      [Python](https://github.com/Constructogamer/OpenSource-Resources/tree/main/Python)
       <ul style="list-style-type: none;">
         <li>YouTube Downloader (v1.0.0)</li>
         <li>Coming soon...</li>

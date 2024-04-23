@@ -67,56 +67,25 @@ Codes are well explained and plenty of comments so you can use them to understan
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
+
 <details>
-  <summary>Table of Contents</summary>
+  <summary>List of Resources</summary>
   <ul style="list-style-type: none;">
     <li>
-      A
+      Python
       <ul style="list-style-type: none;">
-        <li>a</li>
-        <li>b</li>
-        <li>c</li>
+        <li>YouTube Downloader (v1.0.0)</li>
+        <li>Coming soon...</li>
       </ul>
     </li>
     <li>
-      B
+      C++
       <ul style="list-style-type: none;">
-        <li>a</li>
-        <li>b</li>
-        <li>c</li>
+        <li>Coming soon...</li>
       </ul>
     </li>
   </ul>
 </details>
-
-<details>
-  <summary>Table of Contents</summary>
-  <ul style="list-style-type: none;">
-    <li>
-      <details>
-        <summary>A</summary>
-        <ul style="list-style-type: none;">
-          <li>a</li>
-          <li>b</li>
-          <li>c</li>
-        </ul>
-      </details>
-    </li>
-    <li>
-      <details>
-        <summary>B</summary>
-        <ul style="list-style-type: none;">
-          <li>a</li>
-          <li>b</li>
-          <li>c</li>
-        </ul>
-      </details>
-    </li>
-  </ul>
-</details>
-
-
-
 
 ## License
 Distributed under the MIT License. See `LICENSE` for more information.

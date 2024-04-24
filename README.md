@@ -74,10 +74,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 📧 megaconstructogamer9@gmail.com
 
 ### Follow me
-𝕏
-𝕏
-
-𝕏
+Find all my social networks and interest links on [my Lintree](https://linktr.ee/constructogamer)!
 
 ## Extra links
 * Are you studying computer engineering or something related and need help? You can find all my university notes and solved exercises on [my Wuolah profile](https://wuolah.com/profile/Mega_0904?referral=Mga09041)!

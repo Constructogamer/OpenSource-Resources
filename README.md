@@ -72,6 +72,10 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact me
 📧 megaconstructogamer9@gmail.com
 
+## Extra links
+* Are you studying computer engineering or something related and need help? You can find all my university notes and solved exercises on [my Wuolah profile](https://wuolah.com/profile/Mega_0904?referral=Mga09041)!
+* If you want to discover more about me and other projects, such as the videogame I'm developing or the music I publish, take a look at [my blog](https://constructoblog.webnode.es/)!
+* I'm developing a website for my open-source projects, I will post the link here once it is finished and published.
 
 <!-- BACK TO TOP LINK -->
 <!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->

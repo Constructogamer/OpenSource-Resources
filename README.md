@@ -23,9 +23,9 @@
 
 <!-- ABOUT THE PROJECT -->
 ## Description
-Hey everyone! Welcome to my GitHub repository!
+Hey everyone! Welcome to my GitHub repository! 👋😄
 
-Here you will find some open-source projects I've programmed, which I upload here so you can use them in your own ones. Feel free to download anything you want!
+Here you will find some open-source projects I've programmed, which I upload here so you can use them in your own ones. Feel free to download anything you want! ⚡
 
 ### Contents
 Every project here can be downloaded as a zip compressed file which contains the code, the program and resources, and a detailed readme.txt with all the information about the project and how to install and use it. 
@@ -74,7 +74,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 📧 megaconstructogamer9@gmail.com
 
 ### Follow me
-Find all my social networks and interest links on [my Lintree](https://linktr.ee/constructogamer)!
+🌴 Find all my social networks and interest links on [my Lintree](https://linktr.ee/constructogamer)!
 
 ## Extra links
 * Are you studying computer engineering or something related and need help? You can find all my university notes and solved exercises on [my Wuolah profile](https://wuolah.com/profile/Mega_0904?referral=Mga09041)!

@@ -35,7 +35,7 @@ Codes are well explained and plenty of comments so you can use them to understan
 ## Latest Updates
 ### 24/04/2024
 * My GitHub repository is finished and published!
-* YouTube Downloader v1.0.0 published!
+* [YouTube Downloader v1.0.0](https://github.com/Constructogamer/OpenSource-Resources/tree/main/Python/YouTube%20Downloader/v1.0.0) published!
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents

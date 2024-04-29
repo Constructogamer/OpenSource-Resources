@@ -11,7 +11,7 @@
     <img src="Icons/icon.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h1 align="center">OpenSource-Resources</h1>
+  <h1 align="center">YouTube Downloader</h1>
 
   <p align="center">
     A GitHub repository by Constructogamer

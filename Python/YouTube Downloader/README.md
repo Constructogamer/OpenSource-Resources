@@ -17,17 +17,10 @@
 <!-- ABOUT THE PROJECT -->
 ‎
 <br />
-Hey everyone! Welcome to my GitHub repository! 👋😄
+Information about the project
 
-Here you will find some open-source projects I've programmed, which I upload here so you can use them in your own ones. Feel free to download anything you want! ⚡
-
-### Contents
-Every project here can be downloaded as a zip compressed file which contains the code, the program and resources, and a detailed readme.txt with all the information about the project and how to install and use it. 
-
-Codes are well explained and plenty of comments so you can use them to understand better how they work, learn and improve your programming skills. In addition, when possible (such as with Python projects), you will find the program as an executable file too, so you can download and execute it directly in case you are just interested in using the program and not in its code.
-
-## Latest Updates
-### 24/04/2024
+## Latest Update
+### 24/04/2024  -  v1.0.0
 * My GitHub repository is finished and published!
 * [YouTube Downloader v1.0.0](https://github.com/Constructogamer/OpenSource-Resources/tree/main/Python/YouTube%20Downloader/v1.0.0) published!
 

@@ -20,10 +20,9 @@
 Information about the project
 <br />
 
-## Latest Update
-### 24/04/2024  -  v1.0.0
+### Latest Update  -  v1.0.0
 * My GitHub repository is finished and published!
 * [YouTube Downloader v1.0.0](https://github.com/Constructogamer/OpenSource-Resources/tree/main/Python/YouTube%20Downloader/v1.0.0) published!
 
-## License
+### License
 Distributed under the MIT License. See `LICENSE` for more information.

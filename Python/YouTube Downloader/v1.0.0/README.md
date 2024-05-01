@@ -1,3 +1,12 @@
+### Usage
+#### Python file
+1. Download the .py file.
+2. Open its location in a terminal and type "python3 youtubeDownloader.py" (if you don't have Python installed download the latest version from [its official website](https://www.python.org/)).
+
+#### Exe file
+1. Download the .exe file.
+2. Just open it by clicking on it.
+
 ### Features v1.0.0
 * Download videos that have no age restriction
 * Automatically selects the highest video and audio quality possible

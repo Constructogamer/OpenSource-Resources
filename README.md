@@ -33,7 +33,7 @@ Every project here can be downloaded as a zip compressed file which contains the
 Codes are well explained and plenty of comments so you can use them to understand better how they work, learn and improve your programming skills. In addition, when possible (such as with Python projects), you will find the program as an executable file too, so you can download and execute it directly in case you are just interested in using the program and not in its code.
 
 ## Latest Updates
-### 24/04/2024
+### 02/05/2024
 * My GitHub repository is finished and published!
 * [YouTube Downloader v1.0.0](https://github.com/Constructogamer/OpenSource-Resources/tree/main/Python/YouTube%20Downloader/v1.0.0) published!
 

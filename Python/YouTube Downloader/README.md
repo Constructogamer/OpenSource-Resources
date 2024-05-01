@@ -21,7 +21,9 @@
 <br />
 
 ### Description
-Information about the project
+This program allows you to download YouTube content, just paste the link to the video and select if you want to download it as a video (mp4) or just the audio (mp3). The program will create a folder for each format automatically and your file will be saved there. 
+
+What are you waiting for to start downloading your favorite videos? 
 
 ### Latest Update  -  v1.0.0
 * Download videos that have no age restriction

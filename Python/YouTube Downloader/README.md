@@ -17,7 +17,7 @@
 <!-- ABOUT THE PROJECT -->
 ##### LANGUAGE: Python
 ##### AUTHOR: Constructogamer
-##### RELEASE DATE: 01/05/2024
+##### RELEASE DATE: 02/05/2024
 <br />
 
 ### Description

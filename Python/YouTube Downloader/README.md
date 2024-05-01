@@ -12,17 +12,13 @@
   </a>
 
   <h1 align="center">YouTube Downloader</h1>
+  LANGUAGE USED: Python< br />
+  AUTHOR: Constructogamer
 </div>
 
 <!-- ABOUT THE PROJECT -->
 ### Description
 Information about the project
-
-### Programming language used
-Python
-
-### Programmed by
-Constructogamer
 
 ### Latest Update  -  v1.0.0
 * Download videos that have no age restriction

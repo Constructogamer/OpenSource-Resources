@@ -15,7 +15,7 @@
 </div>
 
 <!-- ABOUT THE PROJECT -->
-LANGUAGE: Python
+#### LANGUAGE: Python
 
 AUTHOR: Constructogamer
 

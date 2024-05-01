@@ -21,8 +21,10 @@ Information about the project
 <br />
 
 ### Latest Update  -  v1.0.0
-* My GitHub repository is finished and published!
-* [YouTube Downloader v1.0.0](https://github.com/Constructogamer/OpenSource-Resources/tree/main/Python/YouTube%20Downloader/v1.0.0) published!
+* Download videos that have no age restriction
+* Automatically selects the highest video and audio quality possible
+* Choose if you want your file to be saved as mp3 or mp4
+* Organizes your files automatically in folders
 
 ### License
 Distributed under the MIT License. See `LICENSE` for more information.

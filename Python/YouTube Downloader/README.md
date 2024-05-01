@@ -15,11 +15,14 @@
 </div>
 
 <!-- ABOUT THE PROJECT -->
-‎
-<br />
 ### Description
 Information about the project
-<br />
+
+### Programming language used
+Python
+
+### Programmed by
+Constructogamer
 
 ### Latest Update  -  v1.0.0
 * Download videos that have no age restriction

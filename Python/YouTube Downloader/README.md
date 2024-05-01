@@ -12,8 +12,6 @@
   </a>
 
   <h1 align="center">YouTube Downloader</h1>
-  <h4 align="center">LANGUAGE USED: Python</h4>
-  <h4 align="center">AUTHOR: Constructogamer</h4>
 </div>
 
 <!-- ABOUT THE PROJECT -->

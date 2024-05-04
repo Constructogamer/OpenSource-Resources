@@ -15,4 +15,6 @@ Este programa ha sido desarrollado para introducirle una función y diferentes v
 * Para salir del programa tienes que emplear el comando CTRL + C
 * Escribe la función en un formato claro, empleando todos los paréntesis que sean necesarios y SIN OMITIR OPERADORES, en caso contrario el programa puede confundirse y crashear o devolver resultados erróneos.
 
-EJEMPLO DE FUNCIÓN INTRODUCIDA EN UN FORMATO CORRECTO: 8*(x**2) - (x**4) + 4
+EJEMPLO DE FUNCIÓN INTRODUCIDA EN UN FORMATO CORRECTO:
+![image](https://github.com/Constructogamer/OpenSource-Resources/assets/151817980/2bb1e529-b8f1-407d-85d2-543122ae21ff)
+

@@ -1,16 +1,18 @@
-### Usage
-#### Python file
-1. Download the .py file.
-2. Open its location in a terminal and type "python3 youtubeDownloader.py" (if you don't have Python installed download the latest version from [its official website](https://www.python.org/)).
+### Descripción
+Este programa ha sido desarrollado para introducirle una función y diferentes valores de x y que automáticamente sustituya esos valores de x y devuelva el resultado
 
-#### Exe file
-1. Download the .exe file.
-2. Just open it by clicking on it.
+### Modo de uso
+#### Archivo de Python
+1. Descarga el archivo .py
+2. Abre su directorio en la terminal y escribe "python3 calculadoraFunciones.py" (si no tienes Python instalado descárgalo desde [su web oficial](https://www.python.org/)).
 
-### Features v1.0.0
-* Download videos that have no age restriction
-* Automatically selects the highest video and audio quality possible
-* Choose if you want your file to be saved as mp3 or mp4
-* Organizes your files automatically in folders
+#### Archivo exe
+1. Descarga el ejecutable .exe
+2. Haz click en él para abrir el programa
 
-NOTE: Don't worry if the Python window stops responding while downloading, it is a security measure, once the file is downloaded it will work properly again automatically.
+### Consideraciones
+* Este es un programa para manejar desde la terminal
+* Para salir del programa tienes que emplear el comando CTRL + C
+* Escribe la función en un formato claro, empleando todos los paréntesis que sean necesarios y SIN OMITIR OPERADORES, en caso contrario el programa puede confundirse y crashear o devolver resultados erróneos.
+
+EJEMPLO DE FUNCIÓN INTRODUCIDA EN UN FORMATO CORRECTO: 8*(x**2) - (x**4) + 4
